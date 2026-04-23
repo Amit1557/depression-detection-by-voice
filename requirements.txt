@@ -1,0 +1,6 @@
+streamlit
+onnxruntime
+librosa
+numpy
+pandas
+scikit-learn

@@ -1,0 +1,8 @@
+{
+  "best_threshold": 0.45,
+  "n_mfcc": 40,
+  "max_len": 300,
+  "sr": 16000,
+  "n_features": 120,
+  "model_path": "models/best_depression_model.keras"
+}

@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Data
+# (Allowed because they are < 100MB)
+audio/*.wav
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
