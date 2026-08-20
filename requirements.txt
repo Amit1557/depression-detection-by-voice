@@ -1,6 +1,8 @@
 streamlit
 onnxruntime
-librosa
+librosa[display]
 numpy
 pandas
 scikit-learn
+matplotlib
+soundfile
